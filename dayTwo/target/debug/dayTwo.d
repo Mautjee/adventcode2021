@@ -1,1 +1,1 @@
-/Users/mauro/Dev/adventcode/dayTwo/target/debug/dayTwo: /Users/mauro/Dev/adventcode/dayTwo/src/main.rs
+/Users/mauro/Dev/adventcode/dayTwo/target/debug/dayTwo: /Users/mauro/Dev/adventcode/dayTwo/src/get_data.rs /Users/mauro/Dev/adventcode/dayTwo/src/main.rs /Users/mauro/Dev/adventcode/dayTwo/src/part_one.rs
